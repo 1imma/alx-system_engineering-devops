@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -l -v  sed '/^.$/d' sed '/^..$/d' sed -e '/s/$/,/' -e '$ s/,$/\n/'
+ls -amvp
